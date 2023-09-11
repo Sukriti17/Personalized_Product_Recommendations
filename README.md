@@ -1,4 +1,4 @@
-# Personalized_Product_Recommendations
+# Personalized_Product_Recommendation_System
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Welcome to the project! This project aims to revolutionize the way users discover and engage with products by providing them with tailored recommendations that align with their preferences, behaviors, and past interactions. Whether you're an online retailer looking to enhance customer satisfaction or a developer interested in recommendation algorithms, this system offers an intuitive and customizable solution.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
